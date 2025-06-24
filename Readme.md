@@ -1,5 +1,6 @@
 # lazer-to-classic Export Tool
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Blazzycrafter/OsuLazerMapsToClassic?utm_source=oss&utm_medium=github&utm_campaign=Blazzycrafter%2FOsuLazerMapsToClassic&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Blazzycrafter/OsuLazerMapsToClassic?utm_source=oss&utm_medium=github&utm_campaign=Blazzycrafter%2FOsuLazerMapsToClassic&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)![GitHub last commit](https://img.shields.io/github/last-commit/Blazzycrafter/OsuLazerMapsToClassic)
+
 
 Ein CLI-Tool zum Exportieren von Beatmap-Sets aus **osu!lazer** in das klassische `.osz`-Format, kompatibel mit dem alten osu!-Client.
 
